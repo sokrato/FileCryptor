@@ -1,0 +1,6 @@
+{
+	:deps {
+		org.encryptor4j/encryptor4j {:mvn/version "0.1.2"}
+	}
+	:paths ["src/main/java" "classes"]
+}
